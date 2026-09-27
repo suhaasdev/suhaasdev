@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
-  <img src="./dark.svg" alt="Pisupati Raghavendra Sree Suhaas — Aspiring Machine Learning Engineer and Data Analyst" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suhaasdev/suhaasdev/main/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suhaasdev/suhaasdev/main/light.svg" />
+  <img src="https://raw.githubusercontent.com/suhaasdev/suhaasdev/main/dark.svg" alt="Pisupati Raghavendra Sree Suhaas — Aspiring Machine Learning Engineer and Data Analyst" width="100%" />
 </picture>
 
 # Pisupati Raghavendra Sree Suhaas
