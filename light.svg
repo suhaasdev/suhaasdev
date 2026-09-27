@@ -1,147 +1,149 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Pisupati Raghavendra Sree Suhaas — Aspiring Machine Learning Engineer and Data Analyst, B.Tech CSE MVGR 2024-2028, Visakhapatnam India, 11 plus projects, 3 internships">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Pisupati Raghavendra Sree Suhaas — Aspiring Machine Learning Engineer and Data Analyst, B.Tech CSE MVGR 2024-2028, Visakhapatnam India">
 <title>Pisupati Raghavendra Sree Suhaas — Aspiring ML Engineer and Data Analyst</title>
 <defs>
-<linearGradient id="bg-light" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".55" stop-color="#F8FAFC"/><stop offset="1" stop-color="#EEF6FF"/></linearGradient>
-<linearGradient id="hero-light" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563EB"/><stop offset=".5" stop-color="#06B6D4"/><stop offset="1" stop-color="#10B981"><animate attributeName="stop-color" values="#2563EB;#06B6D4;#10B981;#2563EB" dur="12s" repeatCount="indefinite"/></stop></linearGradient>
-<linearGradient id="border-light" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2563EB" stop-opacity=".9"/><stop offset=".5" stop-color="#06B6D4" stop-opacity=".9"/><stop offset="1" stop-color="#10B981" stop-opacity=".9"/></linearGradient>
-<radialGradient id="glowV-light" cx="30%" cy="20%" r="55%"><stop offset="0" stop-color="#93C5FD" stop-opacity=".30"/><stop offset="1" stop-color="#93C5FD" stop-opacity="0"><animate attributeName="cx" values="28%;34%;28%" dur="16s" repeatCount="indefinite"/></stop></radialGradient>
-<radialGradient id="glowC-light" cx="78%" cy="85%" r="55%"><stop offset="0" stop-color="#67E8F9" stop-opacity=".28"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0"><animate attributeName="cy" values="82%;88%;82%" dur="19s" repeatCount="indefinite"/></stop></radialGradient>
-<pattern id="grid-light" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#DBEAFE" stroke-width="1" opacity=".8"/></pattern>
-<clipPath id="frame-light"><rect x="8" y="8" width="1164" height="594" rx="22"/></clipPath>
-<clipPath id="leftclip-light"><rect x="64" y="124" width="340" height="240" rx="12"/></clipPath>
+<linearGradient id="bwbg-light" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".55" stop-color="#F5F5F5"/><stop offset="1" stop-color="#E5E5E5"/></linearGradient>
+<linearGradient id="bwline-light" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000000" stop-opacity=".9"/><stop offset="1" stop-color="#737373" stop-opacity=".9"/></linearGradient>
+<radialGradient id="bwglow-light" cx="30%" cy="20%" r="55%"><stop offset="0" stop-color="#D4D4D4" stop-opacity=".5"/><stop offset="1" stop-color="#D4D4D4" stop-opacity="0"><animate attributeName="cx" values="28%;34%;28%" dur="16s" repeatCount="indefinite"/></stop></radialGradient>
+<pattern id="bwgrid-light" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#E5E5E5" stroke-width="1" opacity=".9"/></pattern>
+<clipPath id="bwframe-light"><rect x="8" y="8" width="1164" height="594" rx="22"/></clipPath>
+<clipPath id="bwleft-light"><rect x="64" y="124" width="340" height="240" rx="12"/></clipPath>
 </defs>
-<g clip-path="url(#frame-light)">
-<rect x="8" y="8" width="1164" height="594" rx="22" fill="url(#bg-light)"/>
-<rect x="8" y="8" width="1164" height="594" rx="22" fill="url(#grid-light)" opacity=".5"/>
-<rect x="8" y="8" width="1164" height="594" fill="url(#glowV-light)"/>
-<rect x="8" y="8" width="1164" height="594" fill="url(#glowC-light)"/>
-<g opacity=".35">
-<circle cx="120" cy="140" r="2.2" fill="#06B6D4"><animateTransform attributeName="transform" type="translate" values="0 0;0 -14;0 0" dur="7s" repeatCount="indefinite"/></circle>
-<circle cx="1040" cy="120" r="2.4" fill="#2563EB"><animateTransform attributeName="transform" type="translate" values="0 0;0 12;0 0" dur="8.5s" repeatCount="indefinite"/></circle>
-<circle cx="620" cy="90" r="1.8" fill="#10B981"><animateTransform attributeName="transform" type="translate" values="0 0;8 0;0 0" dur="9s" repeatCount="indefinite"/></circle>
-<circle cx="80" cy="520" r="2" fill="#10B981"><animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="6.5s" repeatCount="indefinite"/></circle>
-<circle cx="1100" cy="500" r="2.2" fill="#06B6D4"><animateTransform attributeName="transform" type="translate" values="0 0;-10 0;0 0" dur="7.8s" repeatCount="indefinite"/></circle>
-<circle cx="480" cy="560" r="1.6" fill="#2563EB"><animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="6s" repeatCount="indefinite"/></circle>
+<g clip-path="url(#bwframe-light)">
+<rect x="8" y="8" width="1164" height="594" rx="22" fill="url(#bwbg-light)"/>
+<rect x="8" y="8" width="1164" height="594" rx="22" fill="url(#bwgrid-light)" opacity=".5"/>
+<rect x="8" y="8" width="1164" height="594" fill="url(#bwglow-light)"/>
+<g opacity=".4">
+<circle cx="120" cy="140" r="2.2" fill="#404040"><animateTransform attributeName="transform" type="translate" values="0 0;0 -14;0 0" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="1040" cy="120" r="2.4" fill="#000000"><animateTransform attributeName="transform" type="translate" values="0 0;0 12;0 0" dur="8.5s" repeatCount="indefinite"/></circle>
+<circle cx="80" cy="520" r="2" fill="#737373"><animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="6.5s" repeatCount="indefinite"/></circle>
+<circle cx="1100" cy="500" r="2.2" fill="#404040"><animateTransform attributeName="transform" type="translate" values="0 0;-10 0;0 0" dur="7.8s" repeatCount="indefinite"/></circle>
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="0s" fill="freeze"/>
-<rect x="24" y="24" width="1132" height="40" rx="12" fill="#FFFFFF" fill-opacity=".78" stroke="#DBEAFE" stroke-width="1"/>
-<circle cx="48" cy="44" r="6" fill="#FF5F57"/><circle cx="68" cy="44" r="6" fill="#FEBC2E"/><circle cx="88" cy="44" r="6" fill="#28C840"/>
-<text x="112" y="48.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#334155">suhaas@profile:~</text>
-<text x="590" y="48.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="2" fill="#64748B">CODE   PROJECTS   EXPERIENCE   CONTACT</text>
-<g><circle cx="1052" cy="44" r="4" fill="#10B981"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
-<text x="1064" y="48.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.5" fill="#10B981">[ ONLINE ]</text></g>
+<rect x="24" y="24" width="1132" height="40" rx="12" fill="#FFFFFF" fill-opacity=".85" stroke="#D4D4D4" stroke-width="1"/>
+<circle cx="48" cy="44" r="6" fill="#000000" opacity=".9"/><circle cx="68" cy="44" r="6" fill="#000000" opacity=".6"/><circle cx="88" cy="44" r="6" fill="#000000" opacity=".3"/>
+<text x="112" y="48.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#262626">suhaas@profile:~</text>
+<text x="590" y="48.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="2" fill="#525252">CODE   PROJECTS   EXPERIENCE   CONTACT</text>
+<g><circle cx="1052" cy="44" r="4" fill="#000000"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="1064" y="48.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.5" fill="#000000">[ ONLINE ]</text></g>
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".6s" begin=".2s" fill="freeze"/>
-<rect x="24" y="76" width="420" height="510" rx="16" fill="#FFFFFF" fill-opacity=".78" stroke="#DBEAFE" stroke-width="1"/>
-<rect x="24" y="76" width="420" height="510" rx="16" fill="none" stroke="url(#border-light)" stroke-width="1.2" opacity=".45"/>
-<text x="234" y="106" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" letter-spacing="3" fill="#64748B">VISUAL.MAP</text>
-<rect x="64" y="124" width="340" height="240" rx="12" fill="#F1F5FF" fill-opacity=".65" stroke="#DBEAFE" stroke-width="1"/>
-<g clip-path="url(#leftclip-light)">
-<text x="234" y="170" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="2" fill="#CBD5E1" opacity=".8">.·:+*#%@ .·:+*#%@ .·:+*#%@</text>
-<text x="234" y="258" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="92" font-weight="800" fill="url(#hero-light)" letter-spacing="4">ML<animate attributeName="opacity" values="1;.82;1" dur="4.5s" repeatCount="indefinite"/></text>
-<text x="234" y="290" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="2.5" fill="#334155">DATA · MODELS · INSIGHTS</text>
-<text x="234" y="310" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" fill="#0284C7">▲ Python · Sklearn · PyTorch</text>
-<text x="234" y="330" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#64748B">NLP · RAG · Kafka · Docker</text>
-<text x="234" y="352" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="2" fill="#CBD5E1" opacity=".8">%@#*+:·. %@#*+:·. %@#*+:·.</text>
-<rect x="64" y="124" width="340" height="10" fill="#0284C7" opacity=".12"><animate attributeName="y" values="124;354;124" dur="7s" repeatCount="indefinite"/></rect>
-<g opacity=".18"><path d="M64 200H404M64 240H404M64 280H404M64 320H404" stroke="#0284C7" stroke-width="1"/></g>
+<rect x="24" y="76" width="420" height="510" rx="16" fill="#FFFFFF" fill-opacity=".85" stroke="#D4D4D4" stroke-width="1"/>
+<rect x="24" y="76" width="420" height="510" rx="16" fill="none" stroke="url(#bwline-light)" stroke-width="1.2" opacity=".5"/>
+<text x="234" y="106" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" letter-spacing="3" fill="#525252">VISUAL.MAP</text>
+<rect x="64" y="124" width="340" height="240" rx="12" fill="#F5F5F5" fill-opacity=".7" stroke="#D4D4D4" stroke-width="1"/>
+<g clip-path="url(#bwleft-light)">
+<g opacity=".95"><animate attributeName="opacity" values=".95;.8;.95" dur="5s" repeatCount="indefinite"/>
+<text x="234" y="143.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0"> <animate attributeName="opacity" values="0;1" dur=".3s" begin="0.30s" fill="freeze"/></text>
+<text x="234" y="150.8" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0"> <animate attributeName="opacity" values="0;1" dur=".3s" begin="0.36s" fill="freeze"/></text>
+<text x="234" y="158.6" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0"> <animate attributeName="opacity" values="0;1" dur=".3s" begin="0.42s" fill="freeze"/></text>
+<text x="234" y="166.4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0"> <animate attributeName="opacity" values="0;1" dur=".3s" begin="0.48s" fill="freeze"/></text>
+<text x="234" y="174.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">                         ....<animate attributeName="opacity" values="0;1" dur=".3s" begin="0.54s" fill="freeze"/></text>
+<text x="234" y="182.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">                        .·::..  ..<animate attributeName="opacity" values="0;1" dur=".3s" begin="0.60s" fill="freeze"/></text>
+<text x="234" y="189.8" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">                          ·:++:· .·.<animate attributeName="opacity" values="0;1" dur=".3s" begin="0.66s" fill="freeze"/></text>
+<text x="234" y="197.6" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">                         ·:+#+:+:<animate attributeName="opacity" values="0;1" dur=".3s" begin="0.72s" fill="freeze"/></text>
+<text x="234" y="205.4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">                       .:**++**#*+.<animate attributeName="opacity" values="0;1" dur=".3s" begin="0.78s" fill="freeze"/></text>
+<text x="234" y="213.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">                       ·+**++++*+:<animate attributeName="opacity" values="0;1" dur=".3s" begin="0.84s" fill="freeze"/></text>
+<text x="234" y="221.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">                         ..·::··.<animate attributeName="opacity" values="0;1" dur=".3s" begin="0.90s" fill="freeze"/></text>
+<text x="234" y="228.8" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">                         ·. ...:#·<animate attributeName="opacity" values="0;1" dur=".3s" begin="0.96s" fill="freeze"/></text>
+<text x="234" y="236.6" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">                        .%*++*#@@·....           .<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.02s" fill="freeze"/></text>
+<text x="234" y="244.4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">                    ....:@%:·*@@*.·······..     ......<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.08s" fill="freeze"/></text>
+<text x="234" y="252.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">                ...···..+@%:·%@@:.········..     ........<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.14s" fill="freeze"/></text>
+<text x="234" y="260.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">                ·····...+@%··%@#.··..........       .....<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.20s" fill="freeze"/></text>
+<text x="234" y="267.8" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">                ...···..+@+··#@+.·::::·......         ...<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.26s" fill="freeze"/></text>
+<text x="234" y="275.6" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">               ......·..:@+··%%.··::··.  .....       ....<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.32s" fill="freeze"/></text>
+<text x="234" y="283.4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">               ..  ......#:··#+......    ......       ...<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.38s" fill="freeze"/></text>
+<text x="234" y="291.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">               ...  .....:···+......      .....        ..<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.44s" fill="freeze"/></text>
+<text x="234" y="299.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">               ...    ......·.....        ......<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.50s" fill="freeze"/></text>
+<text x="234" y="306.8" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">              ....     ..........          .....<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.56s" fill="freeze"/></text>
+<text x="234" y="314.6" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">              ....      ..... ........       ...       ...<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.62s" fill="freeze"/></text>
+<text x="234" y="322.4" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">              ....   ... ..............     ....        ..<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.68s" fill="freeze"/></text>
+<text x="234" y="330.2" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">              ....  .............·.....    .....        ...<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.74s" fill="freeze"/></text>
+<text x="234" y="338.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">             .....  ....................  ......        ...<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.80s" fill="freeze"/></text>
+<text x="234" y="345.8" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">             ..... ....................   .....<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.86s" fill="freeze"/></text>
+<text x="234" y="353.6" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="7" letter-spacing="1" fill="#000000" opacity="0">             ....  ........ ........     .....<animate attributeName="opacity" values="0;1" dur=".3s" begin="1.92s" fill="freeze"/></text>
 </g>
-<text x="234" y="392" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="2" fill="#64748B">[PROFILE / ML ENGINEERING]</text>
-<text x="234" y="416" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13.5" font-weight="700" fill="#0F172A">Turning Data Into</text>
-<text x="234" y="436" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13.5" font-weight="700" fill="#0F172A">Predictive Intelligence<tspan fill="#4F46E5">.</tspan></text>
-<text x="234" y="462" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#10B981">~/profile $ train --deploy<rect x="398" y="452" width="8" height="13" fill="#10B981"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.45;.5;.95;1" dur="1.1s" repeatCount="indefinite"/></rect></text>
-<text x="234" y="500" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="1.5" fill="#64748B">● TRAINING · VSKP · 11+ PROJECTS</text>
-<text x="234" y="522" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#0284C7">3 Internships · 6+ Certifications</text>
-<rect x="64" y="544" width="340" height="1.5" fill="url(#hero-light)" opacity=".6"/>
-<text x="234" y="562" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9.5" letter-spacing="1" fill="#64748B">SMIL-ONLY · NO JS · A11Y READY</text>
+<rect x="64" y="124" width="340" height="10" fill="#000000" opacity=".1"><animate attributeName="y" values="124;354;124" dur="7s" repeatCount="indefinite"/></rect>
+</g>
+<text x="234" y="392" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="2" fill="#525252">[PROFILE / ML ENGINEERING]</text>
+<text x="234" y="416" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13.5" font-weight="700" fill="#000000">Turning Data Into</text>
+<text x="234" y="436" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13.5" font-weight="700" fill="#000000">Predictive Intelligence.</text>
+<text x="234" y="462" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" fill="#000000">~/profile $ train --deploy<rect x="398" y="452" width="8" height="13" fill="#000000"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.45;.5;.95;1" dur="1.1s" repeatCount="indefinite"/></rect></text>
+<text x="234" y="500" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" letter-spacing="1.5" fill="#525252">● TRAINING · VSKP · 11+ PROJECTS</text>
+<text x="234" y="522" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#262626">3 Internships · 6+ Certifications</text>
+<rect x="64" y="544" width="340" height="1.5" fill="url(#bwline-light)" opacity=".7"/>
+<text x="234" y="562" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9.5" letter-spacing="1" fill="#525252">SMIL-ONLY · NO JS · A11Y READY</text>
 </g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".6s" begin=".35s" fill="freeze"/>
-<rect x="456" y="76" width="700" height="510" rx="16" fill="#FFFFFF" fill-opacity=".78" stroke="#DBEAFE" stroke-width="1"/>
-<rect x="456" y="76" width="700" height="510" rx="16" fill="none" stroke="url(#border-light)" stroke-width="1.2" opacity=".45"/>
-<text x="480" y="106" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" letter-spacing="3" fill="#64748B">▚ SYSTEM.INFO</text>
-<text x="1132" y="106" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#10B981">● SYNCED · 2026</text>
-<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin=".6s" fill="freeze"/>
-<text x="480" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#10B981">suhaas@profile:~$ <tspan fill="#334155">./profile.sh</tspan><rect x="682" y="122" width="8" height="13" fill="#10B981"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.45;.5;.95;1" dur="1.1s" repeatCount="indefinite"/></rect></text></g>
-<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".6s" begin=".5s" fill="freeze"/>
-<text x="480" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="25" font-weight="800" fill="#0F172A">Pisupati Raghavendra Sree Suhaas</text></g>
-<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".6s" begin=".8s" fill="freeze"/>
-<text x="480" y="190" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" font-weight="700" fill="#2563EB">Aspiring ML Engineer &amp; Data Analyst</text></g>
-<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".6s" begin="1.1s" fill="freeze"/>
-<text x="480" y="214" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#64748B" opacity="0">ML Engineer Intern<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.22;.26;.97;1" dur="12s" repeatCount="indefinite"/></text>
-<text x="480" y="214" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#64748B" opacity="0">Data Analyst<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.24;.28;.47;.51;1" dur="12s" repeatCount="indefinite"/></text>
-<text x="480" y="214" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#64748B" opacity="0">NLP &amp; RAG Builder<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.49;.53;.72;.76;1" dur="12s" repeatCount="indefinite"/></text>
-<text x="480" y="214" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#64748B" opacity="0">Multi-Agent AI Explorer<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.74;.78;.94;.98;1" dur="12s" repeatCount="indefinite"/></text>
-<rect x="662" y="204" width="8" height="13" fill="#0284C7"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.45;.5;.95;1" dur="1.1s" repeatCount="indefinite"/></rect></g>
-<rect x="480" y="228" width="652" height="1.2" fill="#DBEAFE" opacity=".9"/>
+<rect x="456" y="76" width="700" height="510" rx="16" fill="#FFFFFF" fill-opacity=".85" stroke="#D4D4D4" stroke-width="1"/>
+<rect x="456" y="76" width="700" height="510" rx="16" fill="none" stroke="url(#bwline-light)" stroke-width="1.2" opacity=".5"/>
+<text x="480" y="106" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" letter-spacing="3" fill="#525252">▚ SYSTEM.INFO</text>
+<text x="1132" y="106" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10" fill="#000000">● SYNCED · 2026</text>
+<text x="480" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#000000">suhaas@profile:~$ <tspan fill="#262626">./profile.sh</tspan></text>
+<text x="480" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="25" font-weight="800" fill="#000000">Pisupati Raghavendra Sree Suhaas</text>
+<text x="480" y="190" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" font-weight="700" fill="#000000">Aspiring ML Engineer &amp; Data Analyst</text>
+<text x="480" y="214" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#525252" opacity="0">ML Engineer Intern<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.22;.26;.97;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="480" y="214" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#525252" opacity="0">Data Analyst<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.24;.28;.47;.51;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="480" y="214" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#525252" opacity="0">NLP &amp; RAG Builder<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.49;.53;.72;.76;1" dur="12s" repeatCount="indefinite"/></text>
+<text x="480" y="214" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" fill="#525252" opacity="0">Multi-Agent AI Explorer<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.74;.78;.94;.98;1" dur="12s" repeatCount="indefinite"/></text>
+<rect x="480" y="228" width="652" height="1.2" fill="#D4D4D4" opacity=".9"/>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="1.40s" fill="freeze"/>
-        <text x="600" y="258" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#0284C7">ROLE</text>
-        <text x="616" y="258" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#2563EB">Aspiring ML Engineer · Data Analyst</text></g>
+        <text x="600" y="258" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#404040">ROLE</text>
+        <text x="616" y="258" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#000000">Aspiring ML Engineer · Data Analyst</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="1.55s" fill="freeze"/>
-        <text x="600" y="284" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#0284C7">EDUCATION</text>
-        <text x="616" y="284" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#0F172A">B.Tech CSE @ MVGR · 2024-2028</text></g>
+        <text x="600" y="284" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#404040">EDUCATION</text>
+        <text x="616" y="284" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#000000">B.Tech CSE @ MVGR · 2024-2028</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="1.70s" fill="freeze"/>
-        <text x="600" y="310" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#0284C7">LOCATION</text>
-        <text x="616" y="310" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#0F172A">Visakhapatnam, India</text></g>
+        <text x="600" y="310" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#404040">LOCATION</text>
+        <text x="616" y="310" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#000000">Visakhapatnam, India</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="1.85s" fill="freeze"/>
-        <text x="600" y="336" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#0284C7">EXPERIENCE</text>
-        <text x="616" y="336" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#0F172A">3 Internships · 11+ Projects</text></g>
+        <text x="600" y="336" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#404040">EXPERIENCE</text>
+        <text x="616" y="336" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#000000">3 Internships · 11+ Projects</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="2.00s" fill="freeze"/>
-        <text x="600" y="362" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#0284C7">FOCUS</text>
-        <text x="616" y="362" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#0F172A">ML · Analytics · NLP / RAG</text></g>
-<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="2.1s" fill="freeze"/>
-<text x="600" y="394" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#0284C7">STACK</text></g>
+        <text x="600" y="362" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#404040">FOCUS</text>
+        <text x="616" y="362" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#000000">ML · Analytics · NLP / RAG</text></g>
+<text x="600" y="394" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#404040">STACK</text>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="2.20s" fill="freeze"/>
-        <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" keyTimes="0;.5;1" dur="5.0s" begin="0.0s" repeatCount="indefinite"/>
-        <rect x="480" y="388" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".92" stroke="#BFDBFE" stroke-width="1"/>
-        <circle cx="494" cy="400" r="3.2" fill="#2563EB"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="0.0s" repeatCount="indefinite"/></circle>
-        <text x="504" y="404.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#0F172A">Python</text></g></g>
+        <rect x="480" y="388" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".95" stroke="#A3A3A3" stroke-width="1"/>
+        <circle cx="494" cy="400" r="3.2" fill="#000000"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="0.0s" repeatCount="indefinite"/></circle>
+        <text x="504" y="404.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#000000">Python</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="2.32s" fill="freeze"/>
-        <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" keyTimes="0;.5;1" dur="5.4s" begin="0.3s" repeatCount="indefinite"/>
-        <rect x="646" y="388" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".92" stroke="#BFDBFE" stroke-width="1"/>
-        <circle cx="660" cy="400" r="3.2" fill="#06B6D4"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="0.4s" repeatCount="indefinite"/></circle>
-        <text x="670" y="404.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#0F172A">SQL</text></g></g>
+        <rect x="646" y="388" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".95" stroke="#A3A3A3" stroke-width="1"/>
+        <circle cx="660" cy="400" r="3.2" fill="#404040"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+        <text x="670" y="404.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#000000">SQL</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="2.44s" fill="freeze"/>
-        <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" keyTimes="0;.5;1" dur="5.8s" begin="0.6s" repeatCount="indefinite"/>
-        <rect x="812" y="388" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".92" stroke="#BFDBFE" stroke-width="1"/>
-        <circle cx="826" cy="400" r="3.2" fill="#10B981"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="0.8s" repeatCount="indefinite"/></circle>
-        <text x="836" y="404.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#0F172A">Scikit-learn</text></g></g>
+        <rect x="812" y="388" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".95" stroke="#A3A3A3" stroke-width="1"/>
+        <circle cx="826" cy="400" r="3.2" fill="#737373"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="0.8s" repeatCount="indefinite"/></circle>
+        <text x="836" y="404.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#000000">Scikit-learn</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="2.56s" fill="freeze"/>
-        <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" keyTimes="0;.5;1" dur="6.2s" begin="0.9s" repeatCount="indefinite"/>
-        <rect x="978" y="388" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".92" stroke="#BFDBFE" stroke-width="1"/>
-        <circle cx="992" cy="400" r="3.2" fill="#2563EB"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="1.2s" repeatCount="indefinite"/></circle>
-        <text x="1002" y="404.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#0F172A">PyTorch</text></g></g>
+        <rect x="978" y="388" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".95" stroke="#A3A3A3" stroke-width="1"/>
+        <circle cx="992" cy="400" r="3.2" fill="#000000"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="1.2s" repeatCount="indefinite"/></circle>
+        <text x="1002" y="404.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#000000">PyTorch</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="2.68s" fill="freeze"/>
-        <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" keyTimes="0;.5;1" dur="6.6s" begin="1.2s" repeatCount="indefinite"/>
-        <rect x="480" y="418" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".92" stroke="#BFDBFE" stroke-width="1"/>
-        <circle cx="494" cy="430" r="3.2" fill="#06B6D4"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="1.6s" repeatCount="indefinite"/></circle>
-        <text x="504" y="434.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#0F172A">Pandas</text></g></g>
+        <rect x="480" y="418" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".95" stroke="#A3A3A3" stroke-width="1"/>
+        <circle cx="494" cy="430" r="3.2" fill="#404040"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+        <text x="504" y="434.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#000000">Pandas</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="2.80s" fill="freeze"/>
-        <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" keyTimes="0;.5;1" dur="7.0s" begin="1.5s" repeatCount="indefinite"/>
-        <rect x="646" y="418" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".92" stroke="#BFDBFE" stroke-width="1"/>
-        <circle cx="660" cy="430" r="3.2" fill="#10B981"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="2.0s" repeatCount="indefinite"/></circle>
-        <text x="670" y="434.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#0F172A">FastAPI</text></g></g>
+        <rect x="646" y="418" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".95" stroke="#A3A3A3" stroke-width="1"/>
+        <circle cx="660" cy="430" r="3.2" fill="#737373"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="2.0s" repeatCount="indefinite"/></circle>
+        <text x="670" y="434.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#000000">FastAPI</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="2.92s" fill="freeze"/>
-        <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" keyTimes="0;.5;1" dur="7.4s" begin="1.8s" repeatCount="indefinite"/>
-        <rect x="812" y="418" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".92" stroke="#BFDBFE" stroke-width="1"/>
-        <circle cx="826" cy="430" r="3.2" fill="#2563EB"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="2.4s" repeatCount="indefinite"/></circle>
-        <text x="836" y="434.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#0F172A">Docker</text></g></g>
+        <rect x="812" y="418" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".95" stroke="#A3A3A3" stroke-width="1"/>
+        <circle cx="826" cy="430" r="3.2" fill="#000000"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="2.4s" repeatCount="indefinite"/></circle>
+        <text x="836" y="434.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#000000">Docker</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="3.04s" fill="freeze"/>
-        <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" keyTimes="0;.5;1" dur="7.8s" begin="2.1s" repeatCount="indefinite"/>
-        <rect x="978" y="418" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".92" stroke="#BFDBFE" stroke-width="1"/>
-        <circle cx="992" cy="430" r="3.2" fill="#06B6D4"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="2.8s" repeatCount="indefinite"/></circle>
-        <text x="1002" y="434.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#0F172A">Kafka</text></g></g>
-<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="2.5s" fill="freeze"/>
-<text x="600" y="462" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#0284C7">BUILDING</text>
-<circle cx="624" cy="458" r="3.4" fill="#2563EB"/><text x="636" y="462" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#0F172A">SunnyClass AI <tspan fill="#64748B" font-weight="400">— Classroom Analytics</tspan></text>
-<circle cx="624" cy="480" r="3.4" fill="#06B6D4"/><text x="636" y="484" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#0F172A">Commerce OS <tspan fill="#64748B" font-weight="400">— 8-Agent Pipeline</tspan></text>
-<circle cx="624" cy="502" r="3.4" fill="#10B981"/><text x="636" y="506" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#0F172A">Crop ML <tspan fill="#64748B" font-weight="400">— 95.8% Accuracy</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="2.7s" fill="freeze"/>
-<rect x="480" y="520" width="652" height="1.2" fill="#DBEAFE"/>
-<text x="480" y="542" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#0284C7">LINKS</text>
-<text x="540" y="542" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" fill="#1D4ED8">GitHub · LinkedIn · Portfolio · Email · LeetCode</text>
-<text x="480" y="562" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9.5" fill="#64748B">Data is the new soil — mine it, model it.</text>
-<text x="1132" y="562" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9.5" fill="#64748B">build: passing · SMIL</text></g>
+        <rect x="978" y="418" width="154" height="24" rx="12" fill="#FFFFFF" fill-opacity=".95" stroke="#A3A3A3" stroke-width="1"/>
+        <circle cx="992" cy="430" r="3.2" fill="#404040"><animate attributeName="opacity" values="1;.45;1" dur="3.2s" begin="2.8s" repeatCount="indefinite"/></circle>
+        <text x="1002" y="434.5" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" font-weight="600" fill="#000000">Kafka</text></g>
+<text x="600" y="462" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#404040">BUILDING</text>
+<circle cx="624" cy="458" r="3.4" fill="#000000"/><text x="636" y="462" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#000000">SunnyClass AI <tspan fill="#525252" font-weight="400">— Classroom Analytics</tspan></text>
+<circle cx="624" cy="480" r="3.4" fill="#262626"/><text x="636" y="484" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#000000">Commerce OS <tspan fill="#525252" font-weight="400">— 8-Agent Pipeline</tspan></text>
+<circle cx="624" cy="502" r="3.4" fill="#525252"/><text x="636" y="506" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600" fill="#000000">Crop ML <tspan fill="#525252" font-weight="400">— 95.8% Accuracy</tspan></text>
+<rect x="480" y="520" width="652" height="1.2" fill="#D4D4D4"/>
+<text x="480" y="542" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#404040">LINKS</text>
+<text x="540" y="542" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="10.5" fill="#000000">GitHub · LinkedIn · Portfolio · Email · LeetCode</text>
+<text x="480" y="562" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9.5" fill="#525252">Data is the new soil — mine it, model it.</text>
+<text x="1132" y="562" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9.5" fill="#525252">build: passing · SMIL</text>
 </g>
-<rect x="8" y="8" width="1164" height="594" rx="22" fill="none" stroke="url(#border-light)" stroke-width="1.6" opacity=".55"/>
+<rect x="8" y="8" width="1164" height="594" rx="22" fill="none" stroke="url(#bwline-light)" stroke-width="1.6" opacity=".6"/>
 </g>
 </svg>
